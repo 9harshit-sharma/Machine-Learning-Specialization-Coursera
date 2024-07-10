@@ -1,5 +1,4 @@
 Hello world
-# Machine Learning Specialization Coursera
 
 
 
@@ -10,7 +9,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 <hr/>
 
-## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+[Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 
 - [Week 1](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1)
 
